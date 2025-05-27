@@ -1,12 +1,4 @@
-![signup](https://github.com/user-attachments/assets/87fd1775-f993-418b-a041-3f4f8e3ef0ad)
-![settings](https://github.com/user-attachments/assets/4e4c9315-d5b5-4d1e-95d7-2785e2a4d7b6)
-![manage teachers](https://github.com/user-attachments/assets/34da8022-3e40-460a-bfee-c1e30b4b9915)
-![manage learners](https://github.com/user-attachments/assets/63dd9705-1faa-4a45-9725-f54bc2301548)
-![manage books](https://github.com/user-attachments/assets/060561d4-4bf5-400a-ab02-394ab493168c)
-![login](https://github.com/user-attachments/assets/40f7b78b-48c3-49e5-8a2b-9aa1bdb0b4bb)
-![dashboard](https://github.com/user-attachments/assets/462c0ba2-a639-421b-8405-84418aa5c66c)
-![borrow](https://github.com/user-attachments/assets/4f89e7ea-5330-4928-a644-df2d3ed47885)
-![analytics](https://github.com/user-attachments/assets/1c98ef6d-a8bf-4a27-a0c0-79129a0c48b8)
+
 
 # Pre-School Management System
 
