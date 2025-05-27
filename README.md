@@ -1,12 +1,13 @@
-![teachers](https://github.com/user-attachments/assets/cb0afbe8-2770-4cda-9f96-1876cd241d3c)
-![signup](https://github.com/user-attachments/assets/ba6b55ed-ef44-4da6-8d19-b33cfeef72fb)
-![settings](https://github.com/user-attachments/assets/b1c63cc9-19db-4c20-9103-c968481c801f)
-![login](https://github.com/user-attachments/assets/e9380ecd-89e0-426c-8784-facc42071069)
-![learners](https://github.com/user-attachments/assets/f2192ce5-78ed-40c6-ac7e-ba1a2aaa8959)
-![dashboard](https://github.com/user-attachments/assets/14359535-c388-45ab-b242-ba6c388c3ed9)
-![borrow-rec](https://github.com/user-attachments/assets/9e0c0921-7dd1-414b-bf61-b4daf07deb3a)
-![books](https://github.com/user-attachments/assets/a0b5476e-1a1d-4b47-96a7-f38ea743aa38)
-![analytics](https://github.com/user-attachments/assets/a4adb137-3d51-4975-918f-fbd0aba3e5d3)
+![signup](https://github.com/user-attachments/assets/87fd1775-f993-418b-a041-3f4f8e3ef0ad)
+![settings](https://github.com/user-attachments/assets/4e4c9315-d5b5-4d1e-95d7-2785e2a4d7b6)
+![manage teachers](https://github.com/user-attachments/assets/34da8022-3e40-460a-bfee-c1e30b4b9915)
+![manage learners](https://github.com/user-attachments/assets/63dd9705-1faa-4a45-9725-f54bc2301548)
+![manage books](https://github.com/user-attachments/assets/060561d4-4bf5-400a-ab02-394ab493168c)
+![login](https://github.com/user-attachments/assets/40f7b78b-48c3-49e5-8a2b-9aa1bdb0b4bb)
+![dashboard](https://github.com/user-attachments/assets/462c0ba2-a639-421b-8405-84418aa5c66c)
+![borrow](https://github.com/user-attachments/assets/4f89e7ea-5330-4928-a644-df2d3ed47885)
+![analytics](https://github.com/user-attachments/assets/1c98ef6d-a8bf-4a27-a0c0-79129a0c48b8)
+
 # Pre-School Management System
 
 Welcome to the Pre School Management System! This is a simple yet powerful web application designed to help administrators manage learners, teachers, books, and borrowing records with ease.
