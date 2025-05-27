@@ -1,6 +1,6 @@
-# Ratang Bana Pre School Management System
+# Pre School Management System
 
-Welcome to the Ratang Bana Pre School Management System! This is a simple yet powerful web application designed to help administrators manage learners, teachers, books, and borrowing records with ease.
+Welcome to the Pre School Management System! This is a simple yet powerful web application designed to help administrators manage learners, teachers, books, and borrowing records with ease.
 
 ## What This Project Is About
 
@@ -48,4 +48,4 @@ This system was built to make running a preschool smoother by providing an easy-
 - Notifications for overdue books or important events.
 - UI improvements with modern JavaScript frameworks.
 
-Thanks for checking out the Ratang Bana Pre School Management System! We hope it makes managing your preschool a breeze.
+Thanks for checking out the Pre School Management System! We hope it makes managing your preschool a breeze.
