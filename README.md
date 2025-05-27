@@ -25,7 +25,7 @@ This system was built to make running a preschool smoother by providing an easy-
 
 ## How to Get Started
 
-1. Make sure you have PHP and PostgreSQL installed on your machine.
+1. Make sure you have PHP and PostgreSQL installed on your machine, postgresql path while installing (c:\xampp\postgresql\...) not (c:\programfiles...).
    make sure to uncomment postgresql extenstions in xampp>php>php confic
 2. Set up the PostgreSQL database named `pre_school`, copy the schemas in db.txt folder and paste to you database. Save changes
 3. Update the database connection details in `config.php` if needed.
