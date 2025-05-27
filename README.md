@@ -1,4 +1,4 @@
-# Pre School Management System
+# Pre-School Management System
 
 Welcome to the Pre School Management System! This is a simple yet powerful web application designed to help administrators manage learners, teachers, books, and borrowing records with ease.
 
